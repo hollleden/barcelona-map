@@ -1,4 +1,5 @@
 # 🗺️ Barcelona — Interactive Districts & Neighbourhoods Map
+https://hollleden.github.io/barcelona-map/
 
 An interactive map of Barcelona showing all 10 districts and 73 neighbourhoods. Click any district or neighbourhood to learn what its name means, where it came from, and what's worth seeing there.
 <img width="1384" height="853" alt="image" src="https://github.com/user-attachments/assets/f1309066-6c77-46cc-9408-8e32b8c8b461" />
@@ -28,10 +29,6 @@ Built as a personal research project — not an official city product.
 ## Data sources
 
 All geometry and history come from public sources: Open Data BCN (official geodata), Ajuntament de Barcelona (historical texts), and Viquipèdia (etymology). All links back to the originals are included in the interface.
-
-## Live version
-
-https://hollleden.github.io/barcelona-map/
 
 ## License
 
