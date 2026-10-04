@@ -35,4 +35,5 @@ https://hollleden.github.io/barcelona-map/
 
 ## License
 
-Code is free to reuse (MIT). Geodata belongs to the city of Barcelona (Open Data BCN). Historical texts belong to their original authors.<img width="1384" height="853" alt="Screenshot 2026-10-04 at 17 15 29" src="https://github.com/user-attachments/assets/8008a5de-33f1-41ed-b1da-5a14fb2753e5" />
+Geodata belongs to the city of Barcelona (Open Data BCN).
+
